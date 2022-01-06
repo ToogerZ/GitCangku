@@ -1,4 +1,68 @@
 *{
+<<<<<<< HEAD
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+}
+.navigation{
+    width: 100%;
+    height: 100px;
+}
+.navigation_bar{
+    width: 1200px;
+    height: 100px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.navigation_conter{
+    width: 700px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+}
+.navigation_conter li{
+    float: left;
+    margin-left: 20px;
+}
+.navigation_conter a{
+    color: #000;
+}
+.logo{
+    width: 56px;
+    height: 100px;
+}
+.logo .imglogo{
+    width: 56px;
+    height: 56px;
+    margin-top: 20px;
+}
+.input_sousuo{
+    width: 330px;
+    height: 50px;
+    position: relative;
+}
+.input_sousuo input{
+    width: 250px;
+    height: 45px;
+    position: absolute;
+    top: 25px;
+    outline: none;
+}
+.input_sousuo button{
+    width: 55px;
+    height: 49px;
+    position: absolute;
+    top: 25px;
+    left: 253px;
+    background-color: white;
+    border: 1px solid rgb(118, 118, 118);
+    background: url(../图片/Snipaste_2022-01-06_15-53-36.png)no-repeat 5px 0;
+}
+.navigation_conter li:hover {
+    color: rgb(255, 106, 0);
+=======
     margin: 0;
     padding: 0;
 }
@@ -57,4 +121,5 @@
     width: 115px;
     height: 40px;
     background-color: rgb(66, 66, 66);
+>>>>>>> ea1e4c94c3ceab06b5279060081a1b7e53d0c03e
 }
