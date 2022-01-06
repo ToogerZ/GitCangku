@@ -40,12 +40,9 @@
 .navigation_conter{
     width: 700px;
     height: 100px;
-    text-align: center;
-    line-height: 100px;
-}
-.navigation_conter li{
-    float: left;
-    margin-left: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 .navigation_conter a{
     color: #000;
@@ -81,7 +78,7 @@
     border: 1px solid rgb(118, 118, 118);
     background: url(../图片/Snipaste_2022-01-06_15-53-36.png)no-repeat 5px 0;
 }
-.navigation_conter li:hover {
+.navigation_conter  li:hover {
     color: rgb(255, 106, 0);
     margin: 0;
     padding: 0;
