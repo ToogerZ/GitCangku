@@ -1,11 +1,10 @@
-<<<<<<< HEAD
+
 .botton{
-    
     width: 1200px;
     height: 400px;
     /* border: 1px solid red; */
     display: flex;
-    margin: auto;
+    margin-top: 20px;
 }
 .botton_top div{
     width: 289px;
@@ -21,12 +20,7 @@
     margin-left: 0px;
 }
 
-
-
-
-=======
 *{
-<<<<<<< HEAD
     padding: 0;
     margin: 0;
     list-style: none;
@@ -89,7 +83,6 @@
 }
 .navigation_conter li:hover {
     color: rgb(255, 106, 0);
-=======
     margin: 0;
     padding: 0;
 }
@@ -148,6 +141,4 @@
     width: 115px;
     height: 40px;
     background-color: rgb(66, 66, 66);
->>>>>>> ea1e4c94c3ceab06b5279060081a1b7e53d0c03e
 }
->>>>>>> 46e5b8ed4253201bda2ce4fefce16f7aae52caba
