@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .botton{
     
     width: 1200px;
@@ -23,3 +24,130 @@
 
 
 
+=======
+*{
+<<<<<<< HEAD
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+}
+.navigation{
+    width: 100%;
+    height: 100px;
+}
+.navigation_bar{
+    width: 1200px;
+    height: 100px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.navigation_conter{
+    width: 700px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+}
+.navigation_conter li{
+    float: left;
+    margin-left: 20px;
+}
+.navigation_conter a{
+    color: #000;
+}
+.logo{
+    width: 56px;
+    height: 100px;
+}
+.logo .imglogo{
+    width: 56px;
+    height: 56px;
+    margin-top: 20px;
+}
+.input_sousuo{
+    width: 330px;
+    height: 50px;
+    position: relative;
+}
+.input_sousuo input{
+    width: 250px;
+    height: 45px;
+    position: absolute;
+    top: 25px;
+    outline: none;
+}
+.input_sousuo button{
+    width: 55px;
+    height: 49px;
+    position: absolute;
+    top: 25px;
+    left: 253px;
+    background-color: white;
+    border: 1px solid rgb(118, 118, 118);
+    background: url(../图片/Snipaste_2022-01-06_15-53-36.png)no-repeat 5px 0;
+}
+.navigation_conter li:hover {
+    color: rgb(255, 106, 0);
+=======
+    margin: 0;
+    padding: 0;
+}
+.header a{
+    text-decoration: none;
+    color: #b0b0b0;
+}
+.header a:hover{
+    color: white;
+}
+.header span{
+    color: #424242;
+   
+}
+.header_a::after{
+    content: " ";
+    display: block;
+    visibility: hidden;
+    clear: both;
+}
+.header{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(51, 51, 51);
+    font-size: 12px;
+}
+.header_a{
+    display: flex;
+    justify-content: space-between;
+    width: 1200px;
+    height: 40px;
+    margin: auto;
+}
+.header_b{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 800px;
+    height: 40px;
+}
+.header_c{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 275px;
+    height: 40px;
+}
+.header_c img{
+    width: 19px;
+    height: 19px;
+}
+.header_d{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 115px;
+    height: 40px;
+    background-color: rgb(66, 66, 66);
+>>>>>>> ea1e4c94c3ceab06b5279060081a1b7e53d0c03e
+}
+>>>>>>> 46e5b8ed4253201bda2ce4fefce16f7aae52caba
